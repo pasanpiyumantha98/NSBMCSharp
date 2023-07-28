@@ -1,0 +1,8 @@
+C:\Users\piyum\source\repos\lab 3 q2\lab 3 q2\bin\Debug\lab 3 q2.exe.config
+C:\Users\piyum\source\repos\lab 3 q2\lab 3 q2\bin\Debug\lab 3 q2.exe
+C:\Users\piyum\source\repos\lab 3 q2\lab 3 q2\bin\Debug\lab 3 q2.pdb
+C:\Users\piyum\source\repos\lab 3 q2\lab 3 q2\obj\Debug\lab 3 q2.csproj.AssemblyReference.cache
+C:\Users\piyum\source\repos\lab 3 q2\lab 3 q2\obj\Debug\lab 3 q2.csproj.SuggestedBindingRedirects.cache
+C:\Users\piyum\source\repos\lab 3 q2\lab 3 q2\obj\Debug\lab 3 q2.csproj.CoreCompileInputs.cache
+C:\Users\piyum\source\repos\lab 3 q2\lab 3 q2\obj\Debug\lab 3 q2.exe
+C:\Users\piyum\source\repos\lab 3 q2\lab 3 q2\obj\Debug\lab 3 q2.pdb
