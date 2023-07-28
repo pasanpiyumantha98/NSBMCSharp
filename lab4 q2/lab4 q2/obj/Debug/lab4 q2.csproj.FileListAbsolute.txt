@@ -1,0 +1,3 @@
+C:\Users\piyum\source\repos\lab4 q2\lab4 q2\obj\Debug\lab4 q2.csproj.AssemblyReference.cache
+C:\Users\piyum\source\repos\lab4 q2\lab4 q2\obj\Debug\lab4 q2.csproj.SuggestedBindingRedirects.cache
+C:\Users\piyum\source\repos\lab4 q2\lab4 q2\obj\Debug\lab4 q2.csproj.CoreCompileInputs.cache
