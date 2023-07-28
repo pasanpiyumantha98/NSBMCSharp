@@ -1,0 +1,8 @@
+C:\Users\piyum\source\repos\lab 2 q5\lab 2 q5\bin\Debug\lab 2 q5.exe.config
+C:\Users\piyum\source\repos\lab 2 q5\lab 2 q5\bin\Debug\lab 2 q5.exe
+C:\Users\piyum\source\repos\lab 2 q5\lab 2 q5\bin\Debug\lab 2 q5.pdb
+C:\Users\piyum\source\repos\lab 2 q5\lab 2 q5\obj\Debug\lab 2 q5.csproj.AssemblyReference.cache
+C:\Users\piyum\source\repos\lab 2 q5\lab 2 q5\obj\Debug\lab 2 q5.csproj.SuggestedBindingRedirects.cache
+C:\Users\piyum\source\repos\lab 2 q5\lab 2 q5\obj\Debug\lab 2 q5.csproj.CoreCompileInputs.cache
+C:\Users\piyum\source\repos\lab 2 q5\lab 2 q5\obj\Debug\lab 2 q5.exe
+C:\Users\piyum\source\repos\lab 2 q5\lab 2 q5\obj\Debug\lab 2 q5.pdb
